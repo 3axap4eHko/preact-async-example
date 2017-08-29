@@ -1,0 +1,7 @@
+{
+  "useCamelCasedPaths": false,
+  "actionsPath": "src/app/redux/actions",
+  "reducersPath": "src/app/redux/reducers",
+  "typesPath": "src/app/redux/types",
+  "statesPath": "src/app/redux/states"
+}
